@@ -4,7 +4,7 @@ Customer churn or the loss of clients or subscribers is a critical issue for bus
 
 I conducted a comprehensive analysis and implementation of machine learning models for predicting customer churn in the telecom industry.The primary objective was to evaluate various machine learning algorithms to accurately predict churn and identify key factors influencing customer retention.The models examined included traditional algorithms like Logistic Regression, Gradient Boosting, Random Forest and Random Forest post hyperparameter tuning. At last,all the four models were evaluated on the different classification metrics as the problem statement involves the binary classification task.<br>
 
-##Four machine learning models were chosen for churn prediction:<br>
+## Four machine learning models were chosen for churn prediction:<br>
 1.Logistic Regression:<br>
 o Explanation: Logistic Regression is a widely used statistical model that is simple, interpretable, and effective for binary classification problems. It models the probability of the default class (churn) using a logistic function.<br>
 o Performance: Without hyperparameter tuning, the logistic regression model achieved an accuracy of 81.69%. The precision was 67.69%, recall was 58.98%, and the F1 score was 63.04%.<br><br>
