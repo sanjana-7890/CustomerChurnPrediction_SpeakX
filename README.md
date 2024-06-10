@@ -1,5 +1,6 @@
 # CustomerChurnPrediction_SpeakX
 
+Dataset - <a href="https://www.kaggle.com/datasets/blastchar/telco-customer-churn"> Link to Dataset</a><br><br>
 Customer churn or the loss of clients or subscribers is a critical issue for businesses across various sectors especially for service-oriented industries like telecommunications. Understanding and predicting customer churn can provide valuable insights for retaining customers and enhancing overall business performance.<BR>
 
 I conducted a comprehensive analysis and implementation of machine learning models for predicting customer churn in the telecom industry.The primary objective was to evaluate various machine learning algorithms to accurately predict churn and identify key factors influencing customer retention.The models examined included traditional algorithms like Logistic Regression, Gradient Boosting, Random Forest and Random Forest post hyperparameter tuning. At last,all the four models were evaluated on the different classification metrics as the problem statement involves the binary classification task.<br>
